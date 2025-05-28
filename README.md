@@ -1,3 +1,3 @@
 ## 🌐 Live Website
 
-Check it out here 👉 https://yourusername.github.io/personal-site/
+Check it out here 👉 https://mgalamo.github.io/personal-site/
